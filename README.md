@@ -6,12 +6,17 @@
 
 这是我的github号
 
+-----
+
+# 联系方式
+
 我的邮箱：rainx3wu@outlook.com
 
 我的luogu uid：964072
 
+-----
 
-实用工具：
+# 真·实用工具：
 
 -  [艺术字生成器](http://patorjk.com/software/taag/#p=display&f=Small%20Keyboard&t=%23include%20%3Cbits%2Fstdc%2B%2B.h%3E)
 
@@ -33,6 +38,8 @@
 -  [随机头像生成器](https://ak-ioi.com/70-avatar/)
 
 -  [图床](https://picui.cn/)
+
+------
 
 ![](https://cdn.luogu.com.cn/upload/image_hosting/rtlhjgkk.png)
 
