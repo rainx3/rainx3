@@ -467,9 +467,15 @@ int main() {
 -----
 
 [文心一言](https://yiyan.baidu.com/)    
-[在线编程工具](https://c.runoob.com/compile/12/)   
+
+[在线编程工具](https://c.runoob.com/compile/12/) 
+
 [chatGPT](https://chat18.aichatos.xyz/) 
+
 [mc图片](http://mc.whitegem.net/)
+
+[洛谷颜色](https://www.luogu.com.cn/paste/ntwcb7hf)
+
 
 
 
