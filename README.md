@@ -35,6 +35,10 @@
 
 [![Email（gmail）](https://img.shields.io/badge/Email-000?logo=gmail&logoColor=D14836)](mailto:rainx3wu@gmail.com)
 
+## ✨ 访客统计
+
+![Visitor Count](https://profile-counter.glitch.me/rainx3/count.svg)
+
 # rain_x3的主页
 
 你好, 我叫rain_x3
