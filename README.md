@@ -30,7 +30,9 @@
 ## 联系我
 
 手机号：(+86)15662588118
+
 [![Email（outlook）](https://img.shields.io/badge/Email-000?logo=gmail&logoColor=D14836)](mailto:rainx3wu@outlook.com)
+
 [![Email（gmail）](https://img.shields.io/badge/Email-000?logo=gmail&logoColor=D14836)](mailto:rainx3wu@gmail.com)
 
 # rain_x3的主页
