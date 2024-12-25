@@ -1,3 +1,38 @@
+# 你好呀，我是 Rain_x3! 👋
+
+![Profile Views](https://komarev.com/ghpvc/?username=rainx3&color=blue)
+
+## 关于我
+
+我是一名充满激情的开发者，对开源项目和协作开发有着浓厚的兴趣。我喜欢致力于创新解决方案，并不断学习新技术。
+
+- 💻 目前正在开发： [[这那！](https://github.com/Resolutely-resist-CCS-git-hub/my-website)]
+- 📫 如何联系我： [你的联系方式]
+
+## 技能与工具
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
+
+## GitHub 统计
+
+![Rain's GitHub stats](https://github-readme-stats.vercel.app/api?username=rainx3&show_icons=true&theme=radical)
+
+## 精选仓库
+
+哪来的精选仓库？！
+
+## 联系我
+
+手机号：(+86)15662588118
+[![Email（outlook）](https://img.shields.io/badge/Email-000?logo=gmail&logoColor=D14836)](mailto:rainx3wu@outlook.com)
+[![Email（gmail）](https://img.shields.io/badge/Email-000?logo=gmail&logoColor=D14836)](mailto:rainx3wu@gmail.com)
+
 # rain_x3的主页
 
 你好, 我叫rain_x3
